@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+}
+
+input{
+    display: block;
+}
+input, label  {
+    margin-bottom: 0.5rem;
+    width: 100%;
+}
+
+#check-number {
+    display: block;
+    margin-top: 1rem;
+    margin: auto;
+}
