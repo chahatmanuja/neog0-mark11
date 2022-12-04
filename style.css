@@ -1,3 +1,8 @@
+body{
+    background-color: aquamarine;
+    color: black;
+}
+
 h1{
     text-align: center;
 }
@@ -13,10 +18,15 @@ input{
 input, label  {
     margin-bottom: 0.5rem;
     width: 100%;
+    border-radius: 0.5rem;
+    border-color: aqua;
 }
 
 #check-number {
     display: block;
     margin-top: 1rem;
     margin: auto;
+    background: transparent;
+    border-radius: 0.5rem;
+    border-color: aqua;
 }
